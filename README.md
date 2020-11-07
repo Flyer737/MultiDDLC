@@ -1,9 +1,11 @@
 # MultiDDLC
 An instancer for DDLC, for those who enjoy the game with mods.
 
-Requiers python 3.
+* Be sure to have version `python3` or later.
+* Put a copy of DDLC in the same directory as `MultiDDLC.py` named `DDLC_Linux-core.zip`
+(The DDLC.exe should be directly in the zip, no sub-folders)
 
-* For linux, use wine.
+# For linux, use wine.
 `sudo dpkg --add-architecture i386`
 
 `wget -nc https://dl.winehq.org/wine-builds/winehq.key`
