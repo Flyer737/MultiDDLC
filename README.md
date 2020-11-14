@@ -2,8 +2,8 @@
 An instancer for DDLC, for those who enjoy the game with mods.
 
 * Be sure to have version `python3` or later.
-* Put a copy of DDLC in the same directory as `MultiDDLC.py` named `DDLC_Linux-core.zip`
-(The DDLC.exe should be directly in the zip, no sub-folders)
+* Put a copy of DDLC in the same directory as `MultiDDLC.py` named `DDLC-Master.zip`
+(The DDLC.exe and files should be directly in the zip, no sub-folders, if you get what I'm saying.)
 
 # For linux, use wine.
 `sudo dpkg --add-architecture i386`
@@ -22,3 +22,6 @@ Linux Mint 19.x `sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/
 `sudo apt update`
 
 `sudo apt install --install-recommends winehq-stable`
+
+# Windows
+Nothing to do here, just specify in the code the you're using `Windows` and not `Linux`
